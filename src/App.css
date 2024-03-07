@@ -1,0 +1,31 @@
+.container{
+  background-color: black;
+  color:white;
+  text-align: center;
+  font-size: larger;
+
+}
+/* .uppercontainer{
+  margin:2% 0%;
+  border:2px solid red;
+
+
+} */
+.uppercontainer>input{
+  /* border: 2px solid green; */
+  width:40%;
+  height:5vh;
+  margin-bottom: 3%;
+}
+.uppercontainer>button{
+  /* border: 2px solid yellow; */
+  height:5vh;
+  background-color: blue;
+  border-radius: 12%;
+  margin-left:2%;
+  font-size: large;
+  color:white;
+}
+.label{
+  margin:2%;
+}
